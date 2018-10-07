@@ -1,3 +1,7 @@
+# Submission instructions
+
+Please send all materials to `@mderka` on Telegram.
+
 # Quantstamp Prize for ETH San Francisco Bounty
 
 ## Project description
