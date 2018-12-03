@@ -1,14 +1,14 @@
 # Submission instructions
 
-Please send all materials to `@mderka` on Telegram.
+Please send all materials to `@yoheioka` on Telegram.
 
-# Quantstamp Prize for ETH San Francisco Bounty
+# Quantstamp Prize for ETH Singapore Bounty
 
 ## Project description
 
 Improve the usability of the Quantstamp protocol for smart contract analysis. The project is broken into three sub-projects. A team can choose to work on any (one or more) of these.
 
-### Improving presentation of the audit reports ($2000)
+### Improving presentation of the audit reports (TBD)
 The Quantstamp protocol reports are JSON files that contain information about the analyzed contract and outputs of security analyzers such as Mythril and Oyente (other analyzers will be added in the future). The raw JSON reports are hard to interpret by non-technical audience. Furthermore, the reports can contain duplicate vulnerabilities as they are detected by multiple analyzers. A successful developer of this bounty would improve the presentation of the Quantstamp protocol reports and/or make progress towards removing the vulnerability duplicates.
 
 #### Resources
@@ -19,7 +19,7 @@ The Quantstamp protocol reports are JSON files that contain information about th
 1. Sample output of analyzers on various smart contracts:
 https://consensys.net/diligence/evm-analyzer-benchmark-suite/ 
 
-### Enabling decentralized exchange methods ($1000)
+### Enabling decentralized exchange methods (TBD)
 The Quantstamp protocol is powered by the QSP token. As the users might not have QSP tokens handy, the protocol could benefit from an interface that allows users to pay with any ERC20 token that will be automatically converted to QSP for the purposes of requesting the audit. The Kyber decentralized exchange provides means for doing so. There may also be other solutions. A successful developer of this bounty would extend the Quantstamp protocol smart contract with such functionality.
 
 #### Resources
@@ -29,7 +29,7 @@ https://github.com/KyberNetwork/smart-contracts/blob/master/integration.md
 https://etherscan.io/address/0x74814602062af64fd7a83155645ddb265598220e#code
 1. Protocol steps instructions: https://s3.amazonaws.com/qsp-protocol-schema/betanet-instructions.pdf 
 
-### Interfaces for QSP protocol ($2000)
+### Interfaces for QSP protocol (TBD)
 Security audits from the Quantstamp protocol can be requested via web UI provided on betanet.quantstamp.com or via direct interaction with the smart contracts. To simplify the usage and encourage the practice of analyzing smart contracts for security vulnerabilities, the Quantstamp protocol could be integrated directly into the development tools such as Github CI, Truffle, Embark, Remix IDE, and others. Developing and improving a web interface for submitting smart contracts to the protocol would be also considered valuable. A successful developer of this bounty will develop plugins that will enable developers to trigger a security audit directly from the dev tool, or develop a better web interface.
 
 #### Resources
