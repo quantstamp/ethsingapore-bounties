@@ -39,7 +39,7 @@ Security audits from the Quantstamp protocol can be requested via the web UI pro
 https://etherscan.io/address/0x74814602062af64fd7a83155645ddb265598220e#code
 1. Quantstamp's Canonical UI-Library https://github.com/quantstamp/qs-ui-lib
 
-### Interfaces for QSP protocol ($1000)
+### Alternative interfaces for QSP protocol ($1000)
 Security audits from the Quantstamp protocol can be requested via web UI provided on betanet.quantstamp.com or via direct interaction with the smart contracts. To simplify the usage and encourage the practice of analyzing smart contracts for security vulnerabilities, the Quantstamp protocol could be integrated directly into the development tools such as Github CI, Truffle, Embark, Remix IDE, and others. A successful developer of this bounty will develop plugins that will enable developers to trigger a security audit directly from such dev tools.
 
 #### Resources
