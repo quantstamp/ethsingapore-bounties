@@ -1,6 +1,6 @@
 # Submission instructions
 
-Please send all materials to `@yoheioka` on Telegram.
+Please send all material and questions to yohei@quantstamp.com.
 
 # Quantstamp Prize for ETH Singapore Bounty
 
