@@ -2,6 +2,10 @@
 
 Please send all material and questions to yohei@quantstamp.com.
 
+# Slides from API workshop
+
+https://docs.google.com/presentation/d/1TGDHf3EizlvsvZFkAsA5MnjaGc_LgWltoTXIUhYzBwc/edit?usp=sharing
+
 # Quantstamp Prize for ETH Singapore Bounty
 
 ## Project description
